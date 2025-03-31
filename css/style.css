@@ -2731,13 +2731,13 @@ revievs
   background-image: url(../Logos/Magnify.png);
 }
 .mil-revi-pagination .swiper-pagination-bullet .mil-custom-dot.mil-slide-3 {
-  background-image: url(../Logos/Birdcage.png);
-}
-.mil-revi-pagination .swiper-pagination-bullet .mil-custom-dot.mil-slide-4 {
   background-image: url(../Logos/Adux.png);
 }
-.mil-revi-pagination .swiper-pagination-bullet .mil-custom-dot.mil-slide-5 {
+.mil-revi-pagination .swiper-pagination-bullet .mil-custom-dot.mil-slide-4 {
   background-image: url(../Logos/RetailEaseUk.png);
+}
+.mil-revi-pagination .swiper-pagination-bullet .mil-custom-dot.mil-slide-5 {
+  background-image: url();
 }
 
 .mil-revi-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
